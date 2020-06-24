@@ -1,0 +1,2 @@
+# -MANAGEMENT-OF-THE-CENTRAL-PROCESS-JavaOR
+ MANAGEMENT OF THE CENTRAL PROCESSOR algorithem writen on java , student code
