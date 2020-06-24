@@ -1,0 +1,15 @@
+5
+A 3 0
+B 6 1
+C 4 4
+D 2 6
+E 1 7
+
+exmple avec priority
+4
+A 3 0 3
+B 6 3 1
+C 4 5 2
+D 2 6 0
+
+
